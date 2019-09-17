@@ -32,8 +32,9 @@ html, body {
 }
 
 .sidebar-svg {
-    height: 28px;
-    width: 28px;
+    height: 26px;
+    width: 26px;
+    margin-bottom: 6px;
 }
 
 #skills {
