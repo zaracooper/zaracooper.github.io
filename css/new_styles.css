@@ -26,9 +26,14 @@ html, body {
     color: white;
 }
 
-#sidebar img {
+#profile-img {
     border-radius: 0% !important;
     width: 68% !important;
+}
+
+.sidebar-svg {
+    height: 28px;
+    width: 28px;
 }
 
 #skills {
