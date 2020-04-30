@@ -66,6 +66,15 @@ section.blue {
     background: #6449D9 !important;
 }
 
+section.articles {
+    background: #44af69 !important;
+}
+
+.articleicon{
+    width: .875em !important;
+    height: .875em !important;
+}
+
 .language {
     font-weight: bolder !important;
     color: gray !important;
