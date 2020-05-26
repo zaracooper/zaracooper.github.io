@@ -75,6 +75,11 @@ section.articles {
     height: .875em !important;
 }
 
+.skillsicon{
+    width: 1em !important;
+    height: 1em !important;
+}
+
 .language {
     font-weight: bolder !important;
     color: gray !important;
